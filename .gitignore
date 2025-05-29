@@ -16,6 +16,7 @@ ENV/
 .cache/
 *.sqlite3
 *.db
+.cache.sqlite
 
 # Data
 /data/*.csv
@@ -24,6 +25,7 @@ ENV/
 
 # Jupyter
 .ipynb_checkpoints
+main.ipynb
 
 # VSCode
 .vscode/
