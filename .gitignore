@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Cache
+.cache/
+*.sqlite3
+*.db
+
+# Data
+/data/*.csv
+/data/*.parquet
+/data/*.json
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup
+*.bak
+*.tmp
+*~
+
+# Pytest
+.pytest_cache/
+
+# MyPy, Coverage, etc
+.mypy_cache/
+.coverage
+htmlcov/
