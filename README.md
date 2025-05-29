@@ -7,15 +7,15 @@
 
 <h2>Step-by-Step:</h2>
 
-<b/>
+<br/>
 1. Create ERD
-<r/>
+<br/>
 <b/>
 2. Fecth data from <a href="https://open-meteo.com/">open-meteo</a>
-<r/>
+<br/>
 <b/>
 3. Transform data to fit ERD
-<r/>
+<br/>
 <b/>
 
 
