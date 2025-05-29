@@ -8,7 +8,7 @@
 <h2>Step-by-Step:</h2>
 
 <br />
-Create ERD
+1. Create ERD
 <br/>
 <br />
 
