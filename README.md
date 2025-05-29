@@ -20,7 +20,7 @@
 4. Transform data to fit ERD
 <br/>
 <b/>
-5. Upload data into postgres
+5. Upload the data into postgres
 <br/>
 
 
