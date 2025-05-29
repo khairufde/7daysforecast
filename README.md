@@ -10,13 +10,13 @@
 <br />
 1. Create ERD
 <br/>
-<br />
+<br/>
 2. Fecth data from <a href="https://open-meteo.com/">open-meteo</a>
 <br/>
-<br />
+<br/>
 3. Transform data to fit ERD
 <br/>
-<br />
+<br/>
 
 
 
