@@ -42,7 +42,7 @@ This project fetches 7-day weather forecast data from the <a href="https://open-
 1. Configure your .env file with your AWS RDS database connection string (remove .example in .env files name).
 <br/>
 <b/>
-2. Run the main.py
+2. Run main.py script
 <br/>
 
 <!--
