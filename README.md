@@ -7,16 +7,21 @@
 
 <h2>Step-by-Step:</h2>
 
-<br/>
+<b/>
 1. Create ERD
 <br/>
 <b/>
-2. Fecth data from <a href="https://open-meteo.com/">open-meteo</a>
+2. Create table in postgres
 <br/>
 <b/>
-3. Transform data to fit ERD
+3. Fecth data from <a href="https://open-meteo.com/">open-meteo</a>
 <br/>
 <b/>
+4. Transform data to fit ERD
+<br/>
+<b/>
+5. Upload data into postgres
+<br/>
 
 
 
