@@ -1,4 +1,4 @@
-<h1>7 Days Forecast Weather Data Pipeline with Open-Meteo and AWS RDS PostgreSQL</h1>
+<h1>7 Days Forecast Weather Data Pipeline</h1>
 
 <h2>Description</h2>
 This project fetches 7-day weather forecast data from the <a href="https://open-meteo.com/">open-meteo</a> API, transforms it to fit a custom database schema (ERD), and loads it into a PostgreSQL database hosted on AWS RDS.
