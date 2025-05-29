@@ -35,6 +35,8 @@ This project fetches 7-day weather forecast data from the <a href="https://open-
 3. PostgreSQL on AWS RDS
 <br/>
 <b/>
+4. DBeaver
+<br/>
 
 <h2>How To Run:</h2>
 
