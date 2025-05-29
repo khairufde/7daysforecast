@@ -9,7 +9,7 @@
 
 <br/>
 1. Create ERD
-<br/>
+<b/>
 <br/>
 2. Fecth data from <a href="https://open-meteo.com/">open-meteo</a>
 <br/>
