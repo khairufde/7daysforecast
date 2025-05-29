@@ -1,7 +1,7 @@
 <h1>ETL 7 Days Forecast Weather Data</h1>
 
 <h2>Description</h2>
-This project fetches 7-day weather forecast data from the <a href="https://open-meteo.com/">open-meteo</a> API, transforms it to fit a custom database schema (ERD), and loads it into a PostgreSQL database hosted on AWS RDS.
+This project fetches 7-day weather forecast data from the <a href="https://open-meteo.com/">open-meteo</a> API, transforms it to fit ERD, and loads it into a PostgreSQL database hosted on AWS RDS.
 <br />
 
 
@@ -42,7 +42,7 @@ This project fetches 7-day weather forecast data from the <a href="https://open-
 1. Configure your .env file with your AWS RDS database connection string (remove .example in .env files name).
 <br/>
 <b/>
-2. Run the Python scripts
+2. Run the main.py
 <br/>
 
 <!--
