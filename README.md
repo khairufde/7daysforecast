@@ -7,7 +7,7 @@
 
 <h2>Step-by-Step:</h2>
 
-<br />
+<br/>
 1. Create ERD
 <br/>
 <br/>
