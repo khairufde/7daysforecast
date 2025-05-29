@@ -18,11 +18,6 @@ ENV/
 *.db
 .cache.sqlite
 
-# Data
-/data/*.csv
-/data/*.parquet
-/data/*.json
-
 # Jupyter
 .ipynb_checkpoints
 main.ipynb

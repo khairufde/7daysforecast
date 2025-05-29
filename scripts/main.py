@@ -7,7 +7,7 @@ from load_to_db import (
     export_table_to_csv
 )
 
-locations_df = pd.read_csv("../data/locations.csv")
+locations_df = pd.read_csv("../data/list_locations.csv")
 locations = locations_df.to_dict(orient="records")
 
 weather_df, locations_df = fetch_hourly_weather(locations)
