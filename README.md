@@ -14,7 +14,7 @@ This project fetches 7-day weather forecast data from the <a href="https://open-
 2. Create tables in PostgreSQL
 <br/>
 <b/>
-3. Fecth data from <a href="https://open-meteo.com/">open-meteo</a>
+3. Fetch data from <a href="https://open-meteo.com/">open-meteo</a>
 <br/>
 <b/>
 4. Transform data
