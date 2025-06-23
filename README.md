@@ -92,7 +92,7 @@ From the forecast data (May 29 – June 4, 2025):
 4. DBeaver
 <br/>
 
-<h2>How To Run:</h2>
+<h2>How To Run the Scripts:</h2>
 
 <b/>
 1. Configure your .env file with your authentication (remove .example in .env files name).
