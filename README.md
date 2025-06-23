@@ -8,6 +8,7 @@ This is a dummy project that shows process fetches 7-day weather forecast data f
 A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cleanup) within the date range of May 29 – June 4, 2025. The goal is to identify 10 candidates cities in england with the lowest risk of rain, based on hourly precipitation probability forecasts, then select the best city.
 <br />
 
+<h2>List of Cities</h2>
 | No | City         | Latitude  | Longitude |
 |----|--------------|-----------|-----------|
 | 1  | London       | 51.5074   | -0.1278   |
@@ -23,9 +24,7 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 
 <h2>Step-by-Step:</h2>
 
-<h2>
-1. Design ERD
-</h2>
+<h2>1. Design ERD</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/erd/demo%20-%20forecast.png"/>
  
