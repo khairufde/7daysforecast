@@ -12,13 +12,18 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 <h2>
 1. Design ERD
 </h2>
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/erd/demo%20-%20forecast.png"/>
  
 <h2>
 2. Create tables in PostgreSQL
 </h2>
+<p align="center">
+forecast.locations<br/>
+<img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/table_pic/demo%20-%20forecast%20-%20locations.PNG"/>
+<p align="center">
+forecast.weather_hourly<br/>
+<img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/table_pic/demo%20-%20forecast%20-%20weather_hourly.PNG"/>
 
 <b/>
 3. Fetch data from <a href="https://open-meteo.com/">open-meteo</a>
