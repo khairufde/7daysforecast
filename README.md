@@ -16,9 +16,10 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/erd/demo%20-%20forecast.png"/>
  
-<b/>
+<h2>
 2. Create tables in PostgreSQL
-<br/>
+</h2>
+
 <b/>
 3. Fetch data from <a href="https://open-meteo.com/">open-meteo</a>
 <br/>
