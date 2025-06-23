@@ -38,10 +38,10 @@ forecast.weather_hourly<br/>
 - <b>Dynamic Dashboard Link: <a href="https://public.tableau.com/views/PrecipitationProbabilityinEngland/HRP?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Chance of Rain per Hour in England</a></b>
 
 <h2>Key Insight</h2>
-<b>From the forecast data (May 29 – June 4, 2025):
+From the forecast data (May 29 – June 4, 2025):
 <br />
 
-<b>Best Overall Options:
+Best Overall Options:
 <br />
 
 London and Southampton showed a low chance of rain (<70%) across all 7 days, making them the most reliable choices for an outdoor event.
