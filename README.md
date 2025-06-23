@@ -15,9 +15,8 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/erd/demo%20-%20forecast.png"/>
  
-<h2>
-2. Create tables in PostgreSQL
-</h2>
+<h2>2. Create tables in PostgreSQL</h2>
+
 - <b>SQL file for creating locations table: <a href="https://github.com/khairufde/7daysforecast/blob/main/sql/create_tables_locations.sql">forecast.locations</a></b>
 - <b>SQL file for creating weather_hourly table: <a href="https://github.com/khairufde/7daysforecast/blob/main/sql/create_tables_weather_hourly.sql">forecast.weather_hourly</a></b>
 
