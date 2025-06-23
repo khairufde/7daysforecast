@@ -96,7 +96,7 @@ From the forecast data (May 29 – June 4, 2025):
 1. Python (Pandas, SQLAlchemy, requests_cache)
 <br/>
 <b/>
-2. <a href="https://open-meteo.com/">open-meteo</a>
+2. non-commercial <a href="https://open-meteo.com/">open-meteo</a>
 <br/>
 <b/>
 3. PostgreSQL
