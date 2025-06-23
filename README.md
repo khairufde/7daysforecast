@@ -39,9 +39,11 @@ forecast.weather_hourly<br/>
 
 <h2>Key Insight</h2>
 <b>From the forecast data (May 29 – June 4, 2025):
-</b>
+<br />
 
-<b>Best Overall Options:</b>
+<b>Best Overall Options:
+<br />
+
 London and Southampton showed a low chance of rain (<70%) across all 7 days, making them the most reliable choices for an outdoor event.
 <br />
 
