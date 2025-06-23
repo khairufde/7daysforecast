@@ -52,6 +52,8 @@ From the forecast data (May 29 – June 4, 2025):
 
 London and Southampton showed a low chance of rain (<70%) across all 7 days, making them the most reliable choices for an outdoor event.
 <br />
+<p align="center">
+<img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/dashboard/London%20%26%20Southampton.PNG"/>
 
 :heavy_check_mark:Moderate Options (Good 3-day windows: May 30 – June 2):
 <br />
@@ -64,12 +66,16 @@ London and Southampton showed a low chance of rain (<70%) across all 7 days, mak
 - <b>Sheffield</b>
 - <b>Newcastle</b>
 <br />
+<p align="center">
+<img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/dashboard/Moderate%20Options.PNG"/>
 
 :x:Not Recommended:
 <br />
 
 Liverpool have fluctuating precipitation probabilty and did not have 3 consecutive low precipitation probability, sometimes the probability close to or surpases 70%, making it a high-risk choice.
 <br />
+<p align="center">
+<img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/dashboard/worst-Liverpool.PNG"/>
 
 <h2>Tools:</h2>
 
