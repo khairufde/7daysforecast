@@ -40,7 +40,7 @@ forecast.weather_hourly<br/>
 <h2>6. Creating Dashboard</h2>
 
 - <b>Dynamic Dashboard Link:
-   - <a href="https://public.tableau.com/views/PrecipitationProbabilityinEngland/HRP?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Chance of Rain per Hour in England</a></b>
+   - <a href="https://public.tableau.com/views/PrecipitationProbabilityinLondonSouthampton_png/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Chance of Rain per Hour in England</a></b>
 
 <h2>Key Insight</h2>
 
