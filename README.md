@@ -2,10 +2,10 @@
 <h1>ETL 7 Days Forecast Weather Data</h1>
 
 <h2>Description</h2>
-> This is a dummy project that shows process fetches 7-day weather forecast data from the <a href="https://open-meteo.com/">open-meteo</a> API, transforms it to fit ERD, loads it into a PostgreSQL database, then make a dashboard and insight summary.
+- This is a dummy project that shows process fetches 7-day weather forecast data from the <a href="https://open-meteo.com/">open-meteo</a> API, transforms it to fit ERD, loads it into a PostgreSQL database, then make a dashboard and insight summary.
 <br />
 <h2>Project Background</h2>
-> A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cleanup) within the date range of May 29 – June 4, 2025. The goal is to identify 10 candidates cities in england with the lowest risk of rain, based on hourly precipitation probability forecasts, then select the best city.
+- A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cleanup) within the date range of May 29 – June 4, 2025. The goal is to identify 10 candidates cities in england with the lowest risk of rain, based on hourly precipitation probability forecasts, then select the best city.
 <br />
 
 <h2>Step-by-Step:</h2>
