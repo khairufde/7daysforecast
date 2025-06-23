@@ -43,8 +43,10 @@ forecast.weather_hourly<br/>
 <b>Best Overall Options:</b>
 London and Southampton showed a low chance of rain (<70%) across all 7 days, making them the most reliable choices for an outdoor event.
 <br />
+
 Moderate Options (Good 3-day windows: May 30 – June 2):
 <br />
+
 - <b>Birmingham</b>
 - <b>Leeds</b>
 - <b>Nottingham</b>
@@ -53,9 +55,13 @@ Moderate Options (Good 3-day windows: May 30 – June 2):
 - <b>Sheffield</b>
 - <b>Newcastle</b>
 <br />
+
 Not Recommended:
+<br />
+
 Liverpool have fluktuatif precipitation probabilty and did not have 3 consecutive low precipitation probability, sometimes the probability close to or surpases 70%, making it a high-risk choice.
 <br />
+
 <h2>Technologies:</h2>
 
 <b/>
