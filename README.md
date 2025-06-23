@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <style>
 p {
   text-indent: 50px;
