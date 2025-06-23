@@ -10,9 +10,10 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 <h2>Step-by-Step:</h2>
 
 <b/>
-1. Design ERD <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/erd/demo%20-%20forecast.png">
+1. Design ERD
 <br/>
 <b/>
+<p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/erd/demo%20-%20forecast.png">
 <br/>
 <b/>
