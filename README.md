@@ -7,6 +7,18 @@ This is a dummy project that shows process fetches 7-day weather forecast data f
 <h2>Project Background</h2>
 A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cleanup) within the date range of May 29 – June 4, 2025. The goal is to identify 10 candidates cities in england with the lowest risk of rain, based on hourly precipitation probability forecasts, then select the best city.
 <br />
+| No | City         | Latitude  | Longitude |
+|----|--------------|-----------|-----------|
+| 1  | London       | 51.5074   | -0.1278   |
+| 2  | Manchester   | 53.4808   | -2.2426   |
+| 3  | Birmingham   | 52.4862   | -1.8904   |
+| 4  | Leeds        | 53.8008   | -1.5491   |
+| 5  | Liverpool    | 53.4084   | -2.9916   |
+| 6  | Newcastle    | 54.9783   | -1.6178   |
+| 7  | Sheffield    | 53.3811   | -1.4701   |
+| 8  | Bristol      | 51.4545   | -2.5879   |
+| 9  | Nottingham   | 52.9548   | -1.1581   |
+| 10 | Southampton  | 50.9097   | -1.4043   |
 
 <h2>Step-by-Step:</h2>
 
