@@ -26,14 +26,14 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 <br/>
 
 <h2>
-3. Fetch and transform data from <a href="https://open-meteo.com/">open-meteo</a>
+3. Extract, transform, and load data into Postgresql
 </h2>
 <b/>
-- Python scripts folder for fetch and transform data: <a href="https://github.com/khairufde/7daysforecast/tree/main/scripts">Scripts</a>
+- Folder scripts of ETL process: <a href="https://github.com/khairufde/7daysforecast/tree/main/scripts">Python scripts</a>
 <br/>
 
 <h2>
-5. Load data into PostgreSQL
+5. Data in PostgreSQL
 </h2>
 <p align="center">
 forecast.locations<br/>
