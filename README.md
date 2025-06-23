@@ -18,8 +18,8 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 <h2>
 2. Create tables in PostgreSQL
 </h2>
-<a href="[https://open-meteo.com/](https://github.com/khairufde/7daysforecast/blob/main/sql/create_tables_locations.sql)">forecast.locations</a>
-<a href="[https://open-meteo.com/](https://github.com/khairufde/7daysforecast/blob/main/sql/create_tables_weather_hourly.sql)">forecast.weather_hourly</a>
+<a href="https://github.com/khairufde/7daysforecast/blob/main/sql/create_tables_locations.sql">forecast.locations</a>
+<a href="https://github.com/khairufde/7daysforecast/blob/main/sql/create_tables_weather_hourly.sql">forecast.weather_hourly</a>
 
 
 <b/>
