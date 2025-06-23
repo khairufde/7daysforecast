@@ -35,8 +35,26 @@ forecast.weather_hourly<br/>
 
 <h2>6. Creating Dashboard</h2>
 
-- <b>Dynamic Dashboard Link: <a href="https://public.tableau.com/views/PrecipitationProbabilityinEngland/HRP?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Precipitation Probability in England</a></b>
+- <b>Dynamic Dashboard Link: <a href="https://public.tableau.com/views/PrecipitationProbabilityinEngland/HRP?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Chance of Rain per Hour in England</a></b>
 
+<h2>Key Insight</h2>
+<b>From the forecast data (May 29 – June 4, 2025):</b>
+
+<b>Best Overall Options:</b>
+London and Southampton showed a low chance of rain (<70%) across all 7 days, making them the most reliable choices for an outdoor event.
+Moderate Options (Good 3-day windows: May 30 – June 2):
+<br />
+- <b>Birmingham</b>
+- <b>Leeds</b>
+- <b>Nottingham</b>
+- <b>Bristol</b>
+- <b>Manchester</b>
+- <b>Sheffield</b>
+- <b>Newcastle</b>
+<br />
+Not Recommended:
+Liverpool have fluktuatif precipitation probabilty and did not have 3 consecutive low precipitation probability, sometimes the probability close to or surpases 70%, making it a high-risk choice.
+<br />
 <h2>Technologies:</h2>
 
 <b/>
