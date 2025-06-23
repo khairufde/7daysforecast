@@ -47,13 +47,13 @@ forecast.weather_hourly<br/>
 From the forecast data (May 29 – June 4, 2025):
 <br />
 
-Best Overall Options:
+:heavy_check_mark:Best Overall Options:
 <br />
 
 London and Southampton showed a low chance of rain (<70%) across all 7 days, making them the most reliable choices for an outdoor event.
 <br />
 
-Moderate Options (Good 3-day windows: May 30 – June 2):
+:heavy_check_mark:Moderate Options (Good 3-day windows: May 30 – June 2):
 <br />
 
 - <b>Birmingham</b>
@@ -65,7 +65,7 @@ Moderate Options (Good 3-day windows: May 30 – June 2):
 - <b>Newcastle</b>
 <br />
 
-Not Recommended:
+:x:Not Recommended:
 <br />
 
 Liverpool have fluktuatif precipitation probabilty and did not have 3 consecutive low precipitation probability, sometimes the probability close to or surpases 70%, making it a high-risk choice.
