@@ -68,10 +68,10 @@ London and Southampton showed a low chance of rain (<70%) across all 7 days, mak
 :x:Not Recommended:
 <br />
 
-Liverpool have fluktuatif precipitation probabilty and did not have 3 consecutive low precipitation probability, sometimes the probability close to or surpases 70%, making it a high-risk choice.
+Liverpool have fluctuating precipitation probabilty and did not have 3 consecutive low precipitation probability, sometimes the probability close to or surpases 70%, making it a high-risk choice.
 <br />
 
-<h2>Technologies:</h2>
+<h2>Tools:</h2>
 
 <b/>
 1. Python (Pandas, SQLAlchemy, requests_cache)
