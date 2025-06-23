@@ -42,6 +42,7 @@ forecast.weather_hourly<br/>
 
 <b>Best Overall Options:</b>
 London and Southampton showed a low chance of rain (<70%) across all 7 days, making them the most reliable choices for an outdoor event.
+<br />
 Moderate Options (Good 3-day windows: May 30 – June 2):
 <br />
 - <b>Birmingham</b>
