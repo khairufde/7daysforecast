@@ -19,10 +19,10 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 2. Create tables in PostgreSQL
 </h2>
 <b/>
-File sql for creating locations table<a href="https://github.com/khairufde/7daysforecast/blob/main/sql/create_tables_locations.sql">forecast.locations</a>
+- File sql for creating locations table: <a href="https://github.com/khairufde/7daysforecast/blob/main/sql/create_tables_locations.sql">forecast.locations</a>
 <br/>
 <b/>
-File sql for creating weather_hourly table<a href="https://github.com/khairufde/7daysforecast/blob/main/sql/create_tables_weather_hourly.sql">forecast.weather_hourly</a>
+- File sql for creating weather_hourly table: <a href="https://github.com/khairufde/7daysforecast/blob/main/sql/create_tables_weather_hourly.sql">forecast.weather_hourly</a>
 <br/>
 
 <b/>
