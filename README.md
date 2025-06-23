@@ -25,7 +25,8 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 
 <h2>3. Extract, transform, and load data into Postgresql</h2>
 
-- <b>Folder scripts of ETL process: <a href="https://github.com/khairufde/7daysforecast/tree/main/scripts">Python scripts</a></b>
+- <b>Folder scripts of ETL process:
+   - <a href="https://github.com/khairufde/7daysforecast/tree/main/scripts">Python scripts</a></b>
 
 <h2>5. Data in PostgreSQL</h2>
 
@@ -38,7 +39,8 @@ forecast.weather_hourly<br/>
 
 <h2>6. Creating Dashboard</h2>
 
-- <b>Dynamic Dashboard Link: <a href="https://public.tableau.com/views/PrecipitationProbabilityinEngland/HRP?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Chance of Rain per Hour in England</a></b>
+- <b>Dynamic Dashboard Link:
+   - <a href="https://public.tableau.com/views/PrecipitationProbabilityinEngland/HRP?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Chance of Rain per Hour in England</a></b>
 
 <h2>Key Insight</h2>
 
