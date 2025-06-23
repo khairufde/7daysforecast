@@ -20,10 +20,8 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 - <b>SQL file for creating locations table: <a href="https://github.com/khairufde/7daysforecast/blob/main/sql/create_tables_locations.sql">forecast.locations</a></b>
 - <b>SQL file for creating weather_hourly table: <a href="https://github.com/khairufde/7daysforecast/blob/main/sql/create_tables_weather_hourly.sql">forecast.weather_hourly</a></b>
 
-<h2>
-3. Extract, transform, and load data into Postgresql
-</h2>
-<b/>
+<h2>3. Extract, transform, and load data into Postgresql</h2>
+
 - <b>Folder scripts of ETL process: <a href="https://github.com/khairufde/7daysforecast/tree/main/scripts">Python scripts</a></b>
 
 <h2>
