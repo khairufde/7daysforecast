@@ -12,10 +12,9 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 <b/>
 1. Design ERD
 <br/>
-<b/>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/erd/demo%20-%20forecast.png"/>
-<br/>
  
 <b/>
 2. Create tables in PostgreSQL
