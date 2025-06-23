@@ -43,7 +43,7 @@ forecast.weather_hourly<br/>
 2. <a href="https://open-meteo.com/">open-meteo</a>
 <br/>
 <b/>
-3. PostgreSQL on AWS RDS
+3. PostgreSQL
 <br/>
 <b/>
 4. DBeaver
@@ -52,7 +52,7 @@ forecast.weather_hourly<br/>
 <h2>How To Run:</h2>
 
 <b/>
-1. Configure your .env file with your AWS RDS database connection string (remove .example in .env files name).
+1. Configure your .env file with your authentication (remove .example in .env files name).
 <br/>
 <b/>
 2. Run main.py script
