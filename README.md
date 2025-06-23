@@ -24,15 +24,18 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 
 - <b>Folder scripts of ETL process: <a href="https://github.com/khairufde/7daysforecast/tree/main/scripts">Python scripts</a></b>
 
-<h2>
-5. Data in PostgreSQL
-</h2>
+<h2>5. Data in PostgreSQL</h2>
+
 <p align="center">
 forecast.locations<br/>
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/table_pic/demo%20-%20forecast%20-%20locations.PNG"/>
 <p align="center">
 forecast.weather_hourly<br/>
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/table_pic/demo%20-%20forecast%20-%20weather_hourly.PNG"/>
+
+<h2>6. Creating Dashboard</h2>
+
+- <b>Dynamic Dashboard Link: <a href="https://public.tableau.com/views/PrecipitationProbabilityinEngland/HRP?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Precipitation Probability in England</a></b>
 
 <h2>Technologies:</h2>
 
