@@ -9,8 +9,7 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 <br />
 
 <h2>List of Cities</h2>
-<p align="center">
- 
+<p align="center"><br />
 | No | City         | Latitude  | Longitude |
 |----|--------------|-----------|-----------|
 | 1  | London       | 51.5074   | -0.1278   |
