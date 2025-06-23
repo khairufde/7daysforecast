@@ -1,10 +1,10 @@
 <h1>ETL 7 Days Forecast Weather Data</h1>
 
 <h2>Description</h2>
-This is a dummy project that shows process fetches 7-day weather forecast data from the <a href="https://open-meteo.com/">open-meteo</a> API, transforms it to fit ERD, loads it into a PostgreSQL database, then make a dashboard and insight summary.
+<p>This is a dummy project that shows process fetches 7-day weather forecast data from the <a href="https://open-meteo.com/">open-meteo</a> API, transforms it to fit ERD, loads it into a PostgreSQL database, then make a dashboard and insight summary.</p>
 <br />
 <h2>Project Background</h2>
-A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cleanup) within the date range of May 29 – June 4, 2025. The goal is to identify 10 candidates cities in england with the lowest risk of rain, based on hourly precipitation probability forecasts, then select the best city.
+<p>A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cleanup) within the date range of May 29 – June 4, 2025. The goal is to identify 10 candidates cities in england with the lowest risk of rain, based on hourly precipitation probability forecasts, then select the best city.</p>
 <br />
 
 <h2>Step-by-Step:</h2>
@@ -45,7 +45,7 @@ From the forecast data (May 29 – June 4, 2025):
 Best Overall Options:
 <br />
 
-<p>London and Southampton showed a low chance of rain (<70%) across all 7 days, making them the most reliable choices for an outdoor event.
+<p>London and Southampton showed a low chance of rain (<70%) across all 7 days, making them the most reliable choices for an outdoor event.</p>
 <br />
 
 Moderate Options (Good 3-day windows: May 30 – June 2):
@@ -63,7 +63,7 @@ Moderate Options (Good 3-day windows: May 30 – June 2):
 Not Recommended:
 <br />
 
-<p>Liverpool have fluktuatif precipitation probabilty and did not have 3 consecutive low precipitation probability, sometimes the probability close to or surpases 70%, making it a high-risk choice.
+<p>Liverpool have fluktuatif precipitation probabilty and did not have 3 consecutive low precipitation probability, sometimes the probability close to or surpases 70%, making it a high-risk choice.</p>
 <br />
 
 <h2>Technologies:</h2>
