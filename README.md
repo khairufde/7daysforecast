@@ -24,8 +24,7 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 3. Extract, transform, and load data into Postgresql
 </h2>
 <b/>
-- Folder scripts of ETL process: <a href="https://github.com/khairufde/7daysforecast/tree/main/scripts">Python scripts</a>
-<br/>
+- <b>Folder scripts of ETL process: <a href="https://github.com/khairufde/7daysforecast/tree/main/scripts">Python scripts</a></b>
 
 <h2>
 5. Data in PostgreSQL
