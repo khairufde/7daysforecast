@@ -60,35 +60,35 @@ forecast.weather_hourly<br/>
 From the forecast data (May 29 – June 4, 2025):
 <br />
 
-   - Best Overall Options:
-   <br />
-      
-      **London** and **Southampton** showed a low chance of rain (<70%) across all 7 days, making them the most reliable choices for an outdoor event.
-      <br />
-      <p align="center">
-      <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/dashboard/London%20%26%20Southampton.PNG"/>
-   
-   - Moderate Options (Good 3-day windows: May 30 – June 2):
-   <br />
-   
-      - <b>Birmingham</b>
-      - <b>Leeds</b>
-      - <b>Nottingham</b>
-      - <b>Bristol</b>
-      - <b>Manchester</b>
-      - <b>Sheffield</b>
-      - <b>Newcastle</b>
-   <br />
-   <p align="center">
-   <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/dashboard/Moderate%20Options.PNG"/>
-   
-   - Not Recommended:
-   <br />
-   
-      **Liverpool** have fluctuating precipitation probabilty and did not have 3 consecutive low precipitation probability, sometimes the probability close to or surpases 70%, making it a high-risk choice.
-      <br />
-   <p align="center">
-   <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/dashboard/worst-Liverpool.PNG"/>
+- Best Overall Options:
+<br />
+
+**London** and **Southampton** showed a low chance of rain (<70%) across all 7 days, making them the most reliable choices for an outdoor event.
+<br />
+<p align="center">
+<img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/dashboard/London%20%26%20Southampton.PNG"/>
+
+- Moderate Options (Good 3-day windows: May 30 – June 2):
+<br />
+
+- <b>Birmingham</b>
+- <b>Leeds</b>
+- <b>Nottingham</b>
+- <b>Bristol</b>
+- <b>Manchester</b>
+- <b>Sheffield</b>
+- <b>Newcastle</b>
+<br />
+<p align="center">
+<img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/dashboard/Moderate%20Options.PNG"/>
+
+- Not Recommended:
+<br />
+
+**Liverpool** have fluctuating precipitation probabilty and did not have 3 consecutive low precipitation probability, sometimes the probability close to or surpases 70%, making it a high-risk choice.
+<br />
+<p align="center">
+<img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/dashboard/worst-Liverpool.PNG"/>
 
 <h2>Tools:</h2>
 
