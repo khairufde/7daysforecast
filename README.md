@@ -42,10 +42,10 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
   <a href="https://github.com/khairufde/7daysforecast/tree/main/scripts">Python scripts</a><br />
 
 <h3>5. Data in PostgreSQL</h3><br />
-       forecast.locations:<br/>
+- forecast.locations:<br/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/table_pic/demo%20-%20forecast%20-%20locations.PNG"/><br />
-       forecast.weather_hourly:<br/>
+- forecast.weather_hourly:<br/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/table_pic/demo%20-%20forecast%20-%20weather_hourly.PNG"/>
 
