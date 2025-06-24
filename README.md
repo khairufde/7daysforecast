@@ -41,7 +41,8 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 - <b>Folder scripts of ETL process:<br />
   <a href="https://github.com/khairufde/7daysforecast/tree/main/scripts">Python scripts</a><br />
 
-<h3>4. Data in PostgreSQL</h3><br />
+<h3>4. Data in PostgreSQL</h3>
+
 - <b>forecast.locations:<br/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/table_pic/demo%20-%20forecast%20-%20locations.PNG"/><br />
