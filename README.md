@@ -23,25 +23,25 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 | 9  | Nottingham   | 52.9548   | -1.1581   |
 | 10 | Southampton  | 50.9097   | -1.4043   |
 
-<h3>Step-by-Step:</h3>
+<h2>Step-by-Step:</h2>
 
-<h2>1. Design ERD</h2>
+<h3>1. Design ERD</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/erd/demo%20-%20forecast.png"/>
  
-<h2>2. Create tables in PostgreSQL</h2>
+<h3>2. Create tables in PostgreSQL</h3>
 
 - <b>SQL file for creating locations table:<br />
   <a href="https://github.com/khairufde/7daysforecast/blob/main/sql/create_tables_locations.sql">forecast.locations</a><br />
 - <b>SQL file for creating weather_hourly table:<br />
   <a href="https://github.com/khairufde/7daysforecast/blob/main/sql/create_tables_weather_hourly.sql">forecast.weather_hourly</a><br />
 
-<h2>3. Extract, transform, and load data into Postgresql</h2>
+<h3>3. Extract, transform, and load data into Postgresql</h3>
 
 - <b>Folder scripts of ETL process:<br />
   <a href="https://github.com/khairufde/7daysforecast/tree/main/scripts">Python scripts</a><br />
 
-<h2>5. Data in PostgreSQL</h2>
+<h3>5. Data in PostgreSQL</h3>
 
 <p align="center">
 forecast.locations<br/>
@@ -50,12 +50,12 @@ forecast.locations<br/>
 forecast.weather_hourly<br/>
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/table_pic/demo%20-%20forecast%20-%20weather_hourly.PNG"/>
 
-<h2>6. Creating Dashboard</h2>
+<h3>6. Creating Dashboard</h3>
 
 - <b>Dynamic Dashboard Link:<br />
   <a href="https://public.tableau.com/views/PrecipitationProbabilityinLondonSouthampton_png/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Chance of Rain per Hour in England</a><br />
 
-<h2>Key Insight</h2>
+<h3>Key Insight</h3>
 
 From the forecast data (May 29 – June 4, 2025):
 <br />
@@ -82,7 +82,7 @@ From the forecast data (May 29 – June 4, 2025):
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/dashboard/worst-Liverpool.PNG"/>
 
-<h2>Tools:</h2>
+<h3>Tools:</h3>
 
 <b/>
 1. Python (Pandas, SQLAlchemy, requests_cache)
