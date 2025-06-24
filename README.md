@@ -23,7 +23,7 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 | 9  | Nottingham   | 52.9548   | -1.1581   |
 | 10 | Southampton  | 50.9097   | -1.4043   |
 
-<h1>Step-by-Step:</h1>
+<h3>Step-by-Step:</h3>
 
 <h2>1. Design ERD</h2>
 <p align="center">
