@@ -70,14 +70,13 @@ From the forecast data (May 29 – June 4, 2025):
 
 - Moderate Options (Good 3-day windows: May 30 – June 2):
 <br />
-
-- <b>Birmingham</b>
-- <b>Leeds</b>
-- <b>Nottingham</b>
-- <b>Bristol</b>
-- <b>Manchester</b>
-- <b>Sheffield</b>
-- <b>Newcastle</b>
+  - <b>Birmingham</b>
+  - <b>Leeds</b>
+  - <b>Nottingham</b>
+  - <b>Bristol</b>
+  - <b>Manchester</b>
+  - <b>Sheffield</b>
+  - <b>Newcastle</b>
 <br />
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/dashboard/Moderate%20Options.PNG"/>
