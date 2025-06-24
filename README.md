@@ -23,7 +23,7 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 | 9  | Nottingham   | 52.9548   | -1.1581   |
 | 10 | Southampton  | 50.9097   | -1.4043   |
 
-<h2>Step-by-Step:</h2>
+<h1>Step-by-Step:</h1>
 
 <h2>1. Design ERD</h2>
 <p align="center">
@@ -52,8 +52,8 @@ forecast.weather_hourly<br/>
 
 <h2>6. Creating Dashboard</h2>
 
-- <b>Dynamic Dashboard Link:
-   - <a href="https://public.tableau.com/views/PrecipitationProbabilityinLondonSouthampton_png/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Chance of Rain per Hour in England</a></b>
+- <b>Dynamic Dashboard Link:<br />
+  <a href="https://public.tableau.com/views/PrecipitationProbabilityinLondonSouthampton_png/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Chance of Rain per Hour in England</a><br />
 
 <h2>Key Insight</h2>
 
