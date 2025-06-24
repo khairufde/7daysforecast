@@ -46,6 +46,7 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 - <b>forecast.locations:<br />
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/table_pic/demo%20-%20forecast%20-%20locations.PNG"/><br />
+
 - <b>forecast.weather_hourly:<br />
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/table_pic/demo%20-%20forecast%20-%20weather_hourly.PNG"/>
