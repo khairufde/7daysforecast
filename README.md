@@ -57,7 +57,7 @@ forecast.weather_hourly<br/>
 
 <h2>Key Insight</h2>
 
-- From the forecast data (May 29 – June 4, 2025):
+From the forecast data (May 29 – June 4, 2025):
 <br />
 
    - Best Overall Options:
