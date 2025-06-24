@@ -83,7 +83,7 @@ From the forecast data (May 29 – June 4, 2025):
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/dashboard/worst-Liverpool.PNG"/>
 
-<h3>Tools:</h3>
+<h2>Tools:</h2>
 
 <b/>
 1. Python (Pandas, SQLAlchemy, requests_cache)
