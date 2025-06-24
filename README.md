@@ -56,7 +56,7 @@ A company want to hold a 3-day outdoor event (1 day prep, 1 day event, 1 day cle
 - <b>Dynamic Dashboard Link:<br />
   <a href="https://public.tableau.com/views/PrecipitationProbabilityinLondonSouthampton_png/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Chance of Rain per Hour in England</a><br />
 
-<h3>Key Insight</h3>
+<h2>Key Insight</h2>
 
 From the forecast data (May 29 – June 4, 2025):
 <br />
