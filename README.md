@@ -70,6 +70,7 @@ From the forecast data (May 29 – June 4, 2025):
 
 - Moderate Options (Good 3-day windows: May 30 – June 2):
 <br />
+
   - <b>Birmingham</b>
   - <b>Leeds</b>
   - <b>Nottingham</b>
