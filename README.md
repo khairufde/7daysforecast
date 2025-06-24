@@ -68,9 +68,7 @@ From the forecast data (May 29 – June 4, 2025):
 <p align="center">
 <img src="https://raw.githubusercontent.com/khairufde/7daysforecast/refs/heads/main/dashboard/London%20%26%20Southampton.PNG"/>
 
-- Moderate Options (Good 3-day windows: May 30 – June 2):
-<br />
-
+- Moderate Options (Good 3-day windows: May 30 – June 2):<br />
   - <b>Birmingham</b>
   - <b>Leeds</b>
   - <b>Nottingham</b>
